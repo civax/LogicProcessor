@@ -12,5 +12,5 @@ package processor;
  */
 @FunctionalInterface
 public interface Equivalencia<T> {
-    T aplicar(T expresion);
+    T aplicar(T expresion);   
 }
